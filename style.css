@@ -24,4 +24,14 @@ fotter h4{
   margin-bottom: 25px;
   align-items: center;
   margin-left:125px ;
+  font-family: Arial;
+}
+p{
+  margin-top:25px;
+  color:red;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 1.2em;
+  font-family:"Poppins";
+  font-weight: 600;
 }
